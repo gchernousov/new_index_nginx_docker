@@ -1,0 +1,25 @@
+html {
+    background: #C3E1F0;
+}
+
+div {
+    font-family: Helvetica;
+    font-size: 32pt;
+    margin: 10%;
+}
+
+p {
+    color: #E93417;
+}
+
+.p1 {
+    padding-left: 100px; 
+}
+
+.p2 {
+    padding-left: 200px; 
+}
+
+.p3 {
+    padding-left: 300px; 
+}
